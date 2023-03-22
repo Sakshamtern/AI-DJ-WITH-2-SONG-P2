@@ -22,10 +22,7 @@ body{
     width: 200px;
 }
 
-#volume{
-    font-size: 23px;
-    margin: 15px;
-}
+
 
 .div_speed{
     float: right;
@@ -36,10 +33,7 @@ body{
     width: 200px;
 }
 
-#speed{
-    font-size: 23px;
-    margin: 15px;
-}
+
 
 canvas{
     border: 5px solid white;
